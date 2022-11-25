@@ -1,46 +1,46 @@
 .line {
-  width: 100%;
-  height: 1px;
   border-top: 3px solid red;
-  
+  height: 1px;
+  width: 100%;
 }
+
 .Mercúrio img {
-  max-width: 50px;
   max-height: 50px;
+  max-width: 50px;
   width: auto;
 }
 
 .Vênus img {
-  max-width: 100px;
   max-height: 100px;
+  max-width: 100px;
 }
 
 .Terra img {
-  max-width: 100px;
   max-height: 100px;
+  max-width: 100px;
 }
 
 .Marte img {
-  max-width: 70px;
   max-height: 70px;
+  max-width: 70px;
 }
 
 .Júpiter img {
-  max-width: 270px;
   max-height: 270px;
+  max-width: 270px;
 }
 
 .Saturno img {
-  max-width: 270px;
   max-height: 270px;
+  max-width: 270px;
 }
 
 .Urano img {
-  max-width: 150px;
   max-height: 150px;
+  max-width: 150px;
 }
 
 .Netuno img {
-  max-width: 150px;
   max-height: 150px;
+  max-width: 150px;
 }

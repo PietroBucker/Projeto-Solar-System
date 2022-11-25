@@ -1,11 +1,12 @@
 body {
-  background-image: url("./images/background.png");
+  background-image: url('./images/background.png');
   text-align: center;
 }
+
 header {
+  background-color: rgba(200, 200, 200, 0.3);
   border: 1px solid gray;
   border-radius: 20px;
-  background-color: rgba(200, 200, 200, 0.3);
 }
 
 h1 {
@@ -18,10 +19,9 @@ h2 {
 }
 
 .cardContent {
-  position: relative;
+  align-items: center;
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  align-items: center;
+  position: relative;
 }
