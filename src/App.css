@@ -2,3 +2,26 @@ body {
   background-image: url("./images/background.png");
   text-align: center;
 }
+header {
+  border: 1px solid gray;
+  border-radius: 20px;
+  background-color: rgba(200, 200, 200, 0.3);
+}
+
+h1 {
+  font-size: 70px;
+}
+
+h2 {
+  font-size: 35px;
+  margin-top: 100px;
+}
+
+.cardContent {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}

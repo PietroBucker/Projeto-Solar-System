@@ -1,0 +1,15 @@
+.missionCards {
+  background-color: rgba(200, 200, 200, 0.3);
+  border: 1px solid gray;
+  border-radius: 20px;
+  width: 30%;
+  margin-bottom: 20px;
+  font-size: larger;
+}
+
+.infosCard {
+  border-top: 2px solid gray;
+  display: flex;
+  justify-content: space-around;
+  font-size: medium;
+}
